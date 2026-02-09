@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-multipart
+python-jose
+passlib
+argon2-cffi
+google-generativeai
+groq
